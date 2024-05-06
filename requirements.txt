@@ -1,2 +1,4 @@
 argon2-cffi
-firebase-admin
+pymongo
+bson
+pyyaml

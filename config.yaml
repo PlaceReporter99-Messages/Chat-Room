@@ -1,0 +1,5 @@
+database:
+  mongo_url: "mongodb://HMS_coveryouth:{DB_PASSWORD}@qxw.h.filess.io:27018/HMS_coveryouth" # Use curly brackets, {}, to indicate environment variables.
+  database_name: "HMS_coveryouth" # The name of the database? Why do we need it?
+authentication:
+  require_network_password: false # Set to true if you want a password for accessing the network.
